@@ -1,5 +1,3 @@
-package pro.iddqd.UnrealEngine
-
 class UnrealEngine implements Serializable {
     
     /**
