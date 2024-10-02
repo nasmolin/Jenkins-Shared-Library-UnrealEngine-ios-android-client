@@ -1,3 +1,4 @@
+package lab.nasmolin.unrealengine
 
 /**     
  * Экранируем пробелы и скобки при выборе xcode workspace по умолчанию.

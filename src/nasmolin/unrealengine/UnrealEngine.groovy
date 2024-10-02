@@ -1,4 +1,4 @@
-//package pro.iddqd.UnrealEngine
+package lab.nasmolin.unrealengine
 
 class UnrealEngine implements Serializable {
     

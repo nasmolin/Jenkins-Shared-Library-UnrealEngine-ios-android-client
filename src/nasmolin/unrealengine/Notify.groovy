@@ -1,3 +1,4 @@
+package lab.nasmolin.unrealengine
 
 class Notify implements Serializable {
     

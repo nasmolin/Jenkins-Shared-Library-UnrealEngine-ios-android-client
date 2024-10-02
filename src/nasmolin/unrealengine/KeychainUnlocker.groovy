@@ -1,4 +1,4 @@
-
+package lab.nasmolin.unrealengine
  
 /**
  * Класс для разблокировки MacOS Keychain.
